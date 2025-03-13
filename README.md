@@ -10,8 +10,8 @@ Facebook patched my method, I've already reversed their new endpoint, message me
 
 I've reversed all GraphQL endpoints on Facebook's private API, contact me for more info.
 
-Telegram - @Hartman50
+Telegram - @f8956c44e702e1584cc1b45b7f57c488
 
 # Contributions
 
-Reversed by - [@Hartman5](https://github.com/hartman5) & [@probabilities](https://github.com/probabilities)
+Reversed by - [@f8956c44e702e1584cc1b45b7f57c488](https://github.com/f8956c44e702e1584cc1b45b7f57c488) & [@probabilities](https://github.com/probabilities)
